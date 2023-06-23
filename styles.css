@@ -220,6 +220,10 @@ li {
     font-weight: 500;
 }
 
+a {
+    color:#1e1e1e
+}
+
 .section-portfolio {
     display: flex;
     width: 100%;
@@ -285,6 +289,7 @@ li {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin-bottom: 16px;
 }
 
 .section-contact-item-icon {
